@@ -7,6 +7,7 @@ on:
     - cron: "*/5 * * * *"
     # At the beginning of every day.
     #- cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering
 permissions:
   # To write the generated contents to the README.
   contents: write
