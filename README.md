@@ -2,12 +2,12 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bayesian Personalized Ranking Loss](https://blog.xiang578.com/post/logseq/Bayesian%20Personalized%20Ranking%20Loss.html)
-- [batch 内负采样](https://blog.xiang578.com/post/logseq/batch%20%E5%86%85%E8%B4%9F%E9%87%87%E6%A0%B7.html)
-- [向量化召回统一建模框架](https://blog.xiang578.com/post/logseq/%E5%90%91%E9%87%8F%E5%8C%96%E5%8F%AC%E5%9B%9E%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E6%A1%86%E6%9E%B6.html)
-- [混合负采样](https://blog.xiang578.com/post/logseq/%E6%B7%B7%E5%90%88%E8%B4%9F%E9%87%87%E6%A0%B7.html)
-- [第3章 推荐系统中的Embedding](https://blog.xiang578.com/post/logseq/%E7%AC%AC3%E7%AB%A0%20%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84Embedding.html)
-- [第5章 召回](https://blog.xiang578.com/post/logseq/%E7%AC%AC5%E7%AB%A0%20%E5%8F%AC%E5%9B%9E.html)
-- [第4章 精排](https://blog.xiang578.com/post/logseq/%E7%AC%AC4%E7%AB%A0%20%E7%B2%BE%E6%8E%92.html)
-- [Jtalk@产品经理](https://blog.xiang578.com/post/logseq/Jtalk@%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.html)
+- [问题分析图](https://blog.xiang578.com/post/logseq/%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90%E5%9B%BE.html)
+- [集成测试](https://blog.xiang578.com/post/logseq/%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95.html)
+- [需求变更管理](https://blog.xiang578.com/post/logseq/%E9%9C%80%E6%B1%82%E5%8F%98%E6%9B%B4%E7%AE%A1%E7%90%86.html)
+- [需求管理](https://blog.xiang578.com/post/logseq/%E9%9C%80%E6%B1%82%E7%AE%A1%E7%90%86.html)
+- [需求获取](https://blog.xiang578.com/post/logseq/%E9%9C%80%E6%B1%82%E8%8E%B7%E5%8F%96.html)
+- [静态分析方法](https://blog.xiang578.com/post/logseq/%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95.html)
+- [面向对象继承类型](https://blog.xiang578.com/post/logseq/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BB%A7%E6%89%BF%E7%B1%BB%E5%9E%8B.html)
+- [项目时间管理](https://blog.xiang578.com/post/logseq/%E9%A1%B9%E7%9B%AE%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86.html)
 <!-- BLOG-POST-LIST:END -->
